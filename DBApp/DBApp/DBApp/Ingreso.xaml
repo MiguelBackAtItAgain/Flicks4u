@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:android="htttp://schemas.android.com/apk/res/android"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DBApp.Ingreso"
+             >
+    <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand" BackgroundColor="#93c6e0" >
+        <Label Text="¡Bienvenido de vuelta!" HorizontalOptions="Center" TextColor="Black"/>
+        <Label Text="Presentamos la votación de esta semana:" HorizontalOptions="Center" TextColor="Black"/>
+        <Label/>
+        <Label Text="{Binding StringFormat='Perfil de: {0}'}" VerticalOptions="Start" HorizontalOptions="Start" x:Name="CorreoUsuario" TextColor="Black"/>
+
+
+        <CollectionView x:Name="ItemsPeliculas" VerticalOptions="FillAndExpand" Margin="0" BackgroundColor="#c4d8e2">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout x:Name="Test" HorizontalOptions="Center" VerticalOptions="FillAndExpand" >
+                        <Label Text="------------------------------------------------------------------------------------------------------------" TextColor="Black"/>
+                        <Label Text="{Binding Nombre}" VerticalOptions="Center" HorizontalOptions="Center" FontSize="25" TextColor="Black"/>
+                        <Image WidthRequest="320" HeightRequest="480" x:Name="Imagen" Source="{Binding Imagen}"/>
+                        <Label Text="{Binding Sinopsis}" TextColor="Black"/>
+                        <Label Text="{Binding Lanzamiento}" TextColor="Black"/>
+                        <Label Text="{Binding Descripcion}" TextColor="Black"/>
+                        <Label Text="{Binding GeneroNombre}" TextColor="Black"/>
+                        <Label Text="{Binding CantVotos}" TextColor="Black"/>
+                        <Button x:Name="botonVotar" Text="Votar" Background="Aqua" HorizontalOptions="Center"  Clicked="botonVotar_ClickAsync" CornerRadius="50" Margin="5,0,0,5"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Label x:Name="disponibildad"
+                   Text="" 
+                   Margin="10,0,0,10"/>
+        <Button x:Name="eliminarVoto"
+                Text="Eliminar voto"
+                Background="#ffc506"
+                Margin="10,0,0,10"
+                IsVisible="False"
+                Clicked="eliminarVoto_Click"
+                CornerRadius="50"
+                HorizontalOptions="Center"
+            />
+        <Button Text="Salir"
+                Clicked="Salir_ClickAsync"
+                Background="#cc1aa88e" 
+                Margin="10,0,0,10"
+                CornerRadius="50"
+                VerticalOptions="Start"
+                HorizontalOptions="CenterAndExpand"/>
+
+
+    </StackLayout>
+</ContentPage>

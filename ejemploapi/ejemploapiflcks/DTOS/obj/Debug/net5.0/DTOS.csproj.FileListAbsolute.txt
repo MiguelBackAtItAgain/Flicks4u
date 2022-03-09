@@ -1,0 +1,23 @@
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\bin\Debug\net5.0\DTOS.deps.json
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\bin\Debug\net5.0\DTOS.dll
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\bin\Debug\net5.0\ref\DTOS.dll
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\bin\Debug\net5.0\DTOS.pdb
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.csproj.AssemblyReference.cache
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.AssemblyInfoInputs.cache
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.AssemblyInfo.cs
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.csproj.CoreCompileInputs.cache
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.dll
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\ref\DTOS.dll
+D:\Udla\Quinto semsestre\Porgramacion 4\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.pdb
+C:\Users\Miguel Brito\OneDrive\Escritorio\UDLA QUINTO SEMESTRE\PROGRAMACION IV\ejemploapi\ejemploapiflcks\DTOS\bin\Debug\net5.0\DTOS.deps.json
+C:\Users\Miguel Brito\OneDrive\Escritorio\UDLA QUINTO SEMESTRE\PROGRAMACION IV\ejemploapi\ejemploapiflcks\DTOS\bin\Debug\net5.0\DTOS.dll
+C:\Users\Miguel Brito\OneDrive\Escritorio\UDLA QUINTO SEMESTRE\PROGRAMACION IV\ejemploapi\ejemploapiflcks\DTOS\bin\Debug\net5.0\ref\DTOS.dll
+C:\Users\Miguel Brito\OneDrive\Escritorio\UDLA QUINTO SEMESTRE\PROGRAMACION IV\ejemploapi\ejemploapiflcks\DTOS\bin\Debug\net5.0\DTOS.pdb
+C:\Users\Miguel Brito\OneDrive\Escritorio\UDLA QUINTO SEMESTRE\PROGRAMACION IV\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Brito\OneDrive\Escritorio\UDLA QUINTO SEMESTRE\PROGRAMACION IV\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.AssemblyInfoInputs.cache
+C:\Users\Miguel Brito\OneDrive\Escritorio\UDLA QUINTO SEMESTRE\PROGRAMACION IV\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.AssemblyInfo.cs
+C:\Users\Miguel Brito\OneDrive\Escritorio\UDLA QUINTO SEMESTRE\PROGRAMACION IV\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Brito\OneDrive\Escritorio\UDLA QUINTO SEMESTRE\PROGRAMACION IV\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.dll
+C:\Users\Miguel Brito\OneDrive\Escritorio\UDLA QUINTO SEMESTRE\PROGRAMACION IV\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\ref\DTOS.dll
+C:\Users\Miguel Brito\OneDrive\Escritorio\UDLA QUINTO SEMESTRE\PROGRAMACION IV\ejemploapi\ejemploapiflcks\DTOS\obj\Debug\net5.0\DTOS.pdb

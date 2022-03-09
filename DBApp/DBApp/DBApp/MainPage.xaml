@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DBApp.MainPage">
+
+    <StackLayout BackgroundColor="#93dddb">
+        <Frame BackgroundColor="#2dc6d6" Padding="12" CornerRadius="0">
+            <Label Text="Flicks App" HorizontalTextAlignment="Center" TextColor="White" FontSize="40" FontFamily="Century Gothic"/>
+        </Frame>
+        <Image Source="mascaras.png"
+               HeightRequest="80"
+               HorizontalOptions="Center"
+               Aspect="Fill"
+               />
+        <Label Text="Bienvenido!!! " FontSize="Title" Padding="30,10,30,10" HorizontalOptions="Center"/>
+        
+        <Label Text="Email" FontSize="16" Padding="30,0,30,0"/>
+        <Entry Margin="30,0,30,0" x:Name="Txt_Usuariolog"/>
+        <Label Text="Contrasenia" FontSize="16" Padding="30,0,30,0"/>
+        <Entry IsPassword="True" Margin="30,0,30,0" x:Name="Txt_Password"/>
+        <Label/>
+        <Label Margin="30,0,30,0" x:Name="mext" />
+        
+    
+
+        <Button Text="Login" CornerRadius="50" Margin="50" BackgroundColor="#2dc6d6" Clicked="ingresoclk" />
+    </StackLayout>
+
+</ContentPage>

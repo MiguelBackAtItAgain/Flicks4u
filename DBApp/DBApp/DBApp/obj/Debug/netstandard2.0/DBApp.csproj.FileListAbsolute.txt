@@ -1,0 +1,47 @@
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\DBApp.deps.json
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\DBApp.dll
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\ref\DBApp.dll
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\DBApp.pdb
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\Ingreso.xaml.g.cs
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.AssemblyInfoInputs.cache
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.AssemblyInfo.cs
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.csproj.CoreCompileInputs.cache
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.dll
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\ref\DBApp.dll
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.pdb
+D:\Udla\Quinto semsestre\Porgramacion 4\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.csproj.AssemblyReference.cache
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\Ingreso.xaml.g.cs
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.AssemblyInfoInputs.cache
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.AssemblyInfo.cs
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.dll
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\ref\DBApp.dll
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.pdb
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\DBApp.deps.json
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\DBApp.dll
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\ref\DBApp.dll
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\DBApp.pdb
+C:\Users\Miguel Brito\Downloads\Xamrin.froms\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\DBApp.deps.json
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\DBApp.dll
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\ref\DBApp.dll
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\bin\Debug\netstandard2.0\DBApp.pdb
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.csproj.AssemblyReference.cache
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\Ingreso.xaml.g.cs
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.AssemblyInfoInputs.cache
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.AssemblyInfo.cs
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.csproj.CoreCompileInputs.cache
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.dll
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\ref\DBApp.dll
+D:\Udla\Quinto semsestre\proyecto proga\DBApp\DBApp\DBApp\obj\Debug\netstandard2.0\DBApp.pdb
